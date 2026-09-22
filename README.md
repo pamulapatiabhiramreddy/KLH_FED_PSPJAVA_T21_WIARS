@@ -1,5 +1,5 @@
 **Project Title:** Warehouse inventory and reorder System
-**Team no:**KLH/PSPJAVA/S5/T21
+**Team no:** KLH/PSPJAVA/S5/T21
 **Team Member Names with ID Numbers:**
 1. 2620030384 - Vootukuru Vaishali Sharma
 2. 2620040074 - Pamulapati Abhiram Reddy
